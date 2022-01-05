@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DatabaseConnectivityService:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DatabaseConnectivityService_jar</output-path>
+    <root id="archive" name="DatabaseConnectivityService.jar">
+      <element id="module-output" name="DatabaseConnectivityService" />
+    </root>
+  </artifact>
+</component>
